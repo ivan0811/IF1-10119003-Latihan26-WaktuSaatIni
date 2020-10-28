@@ -22,5 +22,8 @@ public class Main {
         System.out.println("Hari ini adalah hari : " + formatter.format(date));
     }
  
-    public static void main(String[] args) { tampilWaktu();}
+    public static void main(String[] args) {
+        tampilWaktu();
+        System.out.println("Developed by : Ivan Faathirza");
+    }
 }
